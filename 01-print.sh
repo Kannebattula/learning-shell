@@ -1,1 +1,1 @@
-ech Helooo
+echo Helooo
